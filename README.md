@@ -32,11 +32,13 @@ The dataset includes 870 carpets, 638 tiles and 573 wood surface samples.
 ----
 The dataset used in indoor surface classification is presented to you. If you are going to use our dataset, please cite the publication.
 
+```
 @article{AsiyeSurface2023,
   title={Indoor Surface Classification for Mobile Robots},
   author={Asiye Demirtas, Gokhan Erdemir, Haluk Bayram},
-  journal={},
+  journal={PeerJ Computer Science},
   volume={},
-  pages={e314},
+  pages={},
   year={2023}
 }
+```

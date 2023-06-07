@@ -5,8 +5,8 @@ In this project, we generated a dataset containing three different floor types (
 
 * Containing a total of 2081 samples, this dataset consists of images captured with cameras in various indoor environments and lighting conditions. 
 * Our dataset contains images from different angles in accordance with the overall dimensions of the indoor robots.
-* This dataset includes samples collected from more than 20 different indoor environments to make up for the lack of other datasets where the variety of indoor surfaces is limited. *
-The dataset includes 870 carpets, 638 tiles and 573 wood surface samples. 
+* This dataset includes samples collected from more than 20 different indoor environments to make up for the lack of other datasets where the variety of indoor surfaces is limited. 
+* The dataset includes 870 carpets, 638 tiles and 573 wood surface samples. 
 
 |  Dataset  |  Carpet  |  Tiles  |  Wood  |  Total  |
 | --------  |:--------:|  -----: | -----: |------:  |

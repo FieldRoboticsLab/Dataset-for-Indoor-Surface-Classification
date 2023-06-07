@@ -33,7 +33,7 @@ In this project, we generated a dataset that contains three different types of i
 
 ### Reference
 ----
-The dataset used in indoor surface classification is presented here. If you are going to use our dataset, please cite the following publication.
+The dataset used in indoor surface classification is presented here. If you are going to use our dataset and codes, please cite the following publication.
 
 ```
 @article{AsiyeSurface2023,

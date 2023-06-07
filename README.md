@@ -31,7 +31,7 @@ In this project, we generated a dataset that contains three different types of i
 * The weights that achieved the best performance for each trained model are available in the provided Google Drive link: link:https://drive.google.com/drive/folders/1aT0vXDsYdLxDKBqufeg2MVFUHPT9jl1W?usp=sharing
 
 
-### References
+### Reference
 ----
 The dataset used in indoor surface classification is presented here. If you are going to use our dataset, please cite the following publication.
 

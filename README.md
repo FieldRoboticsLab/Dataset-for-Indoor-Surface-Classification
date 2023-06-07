@@ -1,12 +1,12 @@
 ### Dataset for Indoor Surface Classification
 #### Details of the Generated Dataset
 ---
-In this project, we generated a dataset containing three different floor types (**carpet**, **tile** and **wood**) to represent indoor surfaces. 
+In this project, we generated a dataset that contains three different types of indoor floor surfaces: **carpet**, **tile** and **wood**. 
 
-* Containing a total of 2081 samples, this dataset consists of images captured with cameras in various indoor environments and lighting conditions. 
-* Our dataset contains images from different angles in accordance with the overall dimensions of the indoor robots.
-* This dataset includes samples collected from more than 20 different indoor environments to make up for the lack of other datasets where the variety of indoor surfaces is limited. 
-* The dataset includes 870 carpets, 638 tiles and 573 wood surface samples. 
+* The dataset comprises a total of 2081 samples, consisting of images captured with cameras in various indoor environments and lighting conditions. 
+* These images were taken from different angles in accordance with the overall dimensions of the indoor robots.
+* This dataset includes samples collected from more than 20 different indoor environments. 
+* The dataset consists of 870 carpet samples, 638 tile samples and 573 wood surface samples. 
 
 |  Dataset  |  Carpet  |  Tiles  |  Wood  |  Total  |
 | --------  |:--------:|  -----: | -----: |------:  |

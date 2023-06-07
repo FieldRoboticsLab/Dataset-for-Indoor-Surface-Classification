@@ -1,7 +1,7 @@
 ### Dataset for Indoor Surface Classification
 #### Details of the Generated Dataset
 ---
-In this project, we generated a dataset that contains three different types of indoor floor surfaces: **carpet**, **tile** and **wood**. 
+In this project, we generated a dataset that contains three different types of indoor floor surfaces: **carpet**, **tile** and **wood**. Then, we used this dataset to train eight CNN-based models, including our proposed model, MobileNetV2-modified.   
 
 * The dataset comprises a total of 2081 samples, consisting of images captured with cameras in various indoor environments and lighting conditions. 
 * These images were taken from different angles in accordance with the overall dimensions of the indoor robots.

@@ -17,20 +17,21 @@ In this project, we generated a dataset that contains three different types of i
 
 
            
-#### Training Process
+#### Training and Testing
 ---
-* Images were saved in RGB format and resized to an equivalent size before being fed into CNN models. 
-* 80% of the dataset is reserved for training, 10% for validation and 10% for testing. This dataset is a valuable resource for classification of interior surfaces and other related tasks.
-* The dataset was trained with CNN-based deep learning models such as ***InceptionV3***, ***Xception***, ***VGG16***, ***VGG19***, ***Resnet50***, ***InceptionResnetV2***, ***MobilenetV2***. 
-* The dataset was trained with 7 different optimizers such as ***SGD***, ***Adam***, ***Adamax***, ***RMSprop***, ***Adagrad***, ***Adadelta***, ***Nadam***.
-* Each model achieved overall high accuracy. However, the highest accuracy was achieved **by modifying the MobilenetV2 model** . While these models were trained with our dataset, libraries such as ***tensorflow***, ***opencv***, ***matplotlib***, ***numpy*** were used.
-
-
+* The images in the dataset were saved in RGB format and resized to an equivalent size before being fed into CNN models. 
+* The dataset was split into three sets: 80% for training, 10% for validation and 10% for testing. 
+* Various CNN-based deep learning models, including ***InceptionV3***, ***Xception***, ***VGG16***, ***VGG19***, ***Resnet50***, ***InceptionResnetV2***, ***MobilenetV2***, and ***MobileNetV2-Modified***, were trained using this dataset.
+* In  the training process, seven different optimizers were employed, namely ***SGD***, ***Adam***, ***Adamax***, ***RMSprop***, ***Adagrad***, ***Adadelta***, and ***Nadam***.
+* Each model achieved overall high accuracy. However, the highest accuracy was achieved by modifying the MobilenetV2 model, ***MobileNetV2-Modified***. While these models were trained with our dataset, the libraries such as ***tensorflow***, ***opencv***, ***matplotlib***, ***numpy*** were used in the tranining and testing processes.
+* The codes used for training each model with the dataset can be accessed in the "codes" folder.
+* The code for testing the trained model using the ROS platform on the Kobuki robot is under the "codes" folder.
+* The weights that achieved the best performance for each trained model are available in the provided Google Drive link: link:https://drive.google.com/drive/folders/1aT0vXDsYdLxDKBqufeg2MVFUHPT9jl1W?usp=sharing
 
 
 ### References
 ----
-The dataset used in indoor surface classification is presented to you. If you are going to use our dataset, please cite the publication.
+The dataset used in indoor surface classification is presented here. If you are going to use our dataset, please cite the following publication.
 
 ```
 @article{AsiyeSurface2023,

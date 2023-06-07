@@ -1,4 +1,4 @@
-### Dataset for Indoor Surface Classification
+### Dataset and CNN-based Models for Indoor Surface Classification
 
 In this project, we generated a dataset that contains three different types of indoor floor surfaces: carpet, tile and wood. Then, we used this dataset to train eight CNN-based models, including our proposed model, MobileNetV2-modified.
 

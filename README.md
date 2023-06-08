@@ -25,7 +25,7 @@ In this project, we generated a dataset that contains three different types of i
 * The dataset was split into three sets: 80% for training, 10% for validation and 10% for testing. 
 * Various CNN-based deep learning models, including ***InceptionV3***, ***Xception***, ***VGG16***, ***VGG19***, ***Resnet50***, ***InceptionResnetV2***, ***MobilenetV2***, and ***MobileNetV2-Modified***, were trained using this dataset.
 * In the training process, seven different optimizers were employed, namely ***SGD***, ***Adam***, ***Adamax***, ***RMSprop***, ***Adagrad***, ***Adadelta***, and ***Nadam***.
-* Each model achieved overall high accuracy. However, the highest accuracy was achieved by modifying the MobilenetV2 model, ***MobileNetV2-Modified***. While these models were trained with our dataset, the libraries such as ***tensorflow***, ***opencv***, ***matplotlib***, ***numpy*** were used in the training and testing stages.
+* Each model achieved overall high accuracy. However, the highest accuracy was achieved by the ***MobileNetV2-Modified*** model, which is the modified version of the ***MobilenetV2*** model. In the training and testing stages, the libraries such as ***tensorflow***, ***opencv***, ***matplotlib***, ***numpy*** were used.
 * The codes used for training each model with the dataset can be accessed in the "Codes" folder.
 * The code for testing the trained model using the ROS platform on the Kobuki robot is under the "Codes" folder.
 * The weights that achieved the best performance for each trained model are available in the provided Google Drive link: link:https://drive.google.com/drive/folders/1aT0vXDsYdLxDKBqufeg2MVFUHPT9jl1W?usp=sharing
